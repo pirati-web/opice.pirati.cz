@@ -10,13 +10,20 @@ keywords: piráti, tábor, organizace, transparence, politika
 	<div class="row">
 		<div class="small-8 columns">
 			<p>
+<<<<<<< HEAD
 				Není ti lhostejné veřejné dění v Brně?<br/>
 				Je ti blízký pirátský program / ideje?<br/>
 				Máš kuráž a taky chceš transparentnější a modernější radnici?<br/>
 				Tak buď brněnský pirát!
+=======
+				Chceš se setkat s Piráty z Moravskoslezského kraje?<br/>
+				Je ti blízký pirátský program / ideje?<br/>
+				Máš kuráž a taky chceš transparentnější a modernější město, kraj a stát?<br/>
+				Zaujaly tě naše akce? Přijď do OPICE!
+>>>>>>> 0412b18ed56b526b5ac53c6a2adbe2e298c6abed
 			</p>
 
-			<a href="/lide/" class="primary button test">Ozvi se nám →</a>
+			<a href="/kontakt/" class="primary button test">Kde nás najdeš →</a>
 
 		</div>
 
