@@ -1,5 +1,5 @@
 title: Ostravské pirátské centrum OPICE
-baseurl: http://opice.pirati.cz
+baseurl: 
 default_locale: "cs"
 permalink: pretty
 markdown: kramdown
